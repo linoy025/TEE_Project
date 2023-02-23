@@ -1,0 +1,6 @@
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeProjHost\TeeProjHost\bin\Amulet\TeeProjHost.exe
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeProjHost\TeeProjHost\bin\Amulet\TeeProjHost.pdb
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeProjHost\TeeProjHost\bin\Amulet\JhiSharp.dll
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeProjHost\TeeProjHost\obj\x86\Amulet\TeeProjHost.csprojResolveAssemblyReference.cache
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeProjHost\TeeProjHost\obj\x86\Amulet\TeeProjHost.exe
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeProjHost\TeeProjHost\obj\x86\Amulet\TeeProjHost.pdb

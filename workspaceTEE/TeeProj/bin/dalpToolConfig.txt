@@ -1,0 +1,4 @@
+::Name TeeProj
+::Description This is the TeeProj applet
+::Vendor DALSDK_build
+::Applet C:\Users\tam05\workspaceTEE\TeeProj\bin\ME12.0\TeeProj_ME12.0.pack ::FwVersion 11.0.0

@@ -1,0 +1,6 @@
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeTry01Host\TeeTry01Host\bin\Amulet\TeeTry01Host.exe
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeTry01Host\TeeTry01Host\bin\Amulet\TeeTry01Host.pdb
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeTry01Host\TeeTry01Host\bin\Amulet\JhiSharp.dll
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeTry01Host\TeeTry01Host\obj\x86\Amulet\TeeTry01Host.csprojResolveAssemblyReference.cache
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeTry01Host\TeeTry01Host\obj\x86\Amulet\TeeTry01Host.exe
+C:\Users\tam05\My Documents\Visual Studio 2015\Projects\TeeTry01Host\TeeTry01Host\obj\x86\Amulet\TeeTry01Host.pdb

@@ -1,0 +1,14 @@
+applet.id: 728b03ad-8240-4015-ba8c-599798aac6f9
+applet.name: TeeProj
+applet.vendor: Intel
+applet.description: This is the TeeProj applet
+security.version: 1
+applet.version: 1.0
+applet.heap.size: 50000
+applet.flash.quota: 0
+applet.debug.enable: true
+applet.written.by.intel: true
+applet.platform: CSE
+applet.api.level: 9
+applet.access.control: 000000000000ffff
+applet.entry_class: fProject.TeeRunner
